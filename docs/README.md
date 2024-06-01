@@ -17,3 +17,6 @@ Basic example with a sound coming from left, right, then both channels respectiv
 ![GIF2](https://github.com/azanzu786/VisualAudioOverlay/blob/main/GIFs/VisGIF2.gif)
 
 Another example where audio is coming from both channels but stronger in one (opacity settings are all configurable)
+
+
+I believe the concept is viable to use and it does provide a lot of help to someone who has hearing issues like myself and I will continue to improve upon it. Thought I would share the code in case someone is in a similar situation and stumbles across this.
