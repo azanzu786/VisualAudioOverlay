@@ -1,0 +1,13 @@
+{
+    "scaling_factor": 0.15,
+    "threshold1": 150,
+    "threshold2": 600,
+    "x_position": 1320,
+    "y_position": 2010,
+    "decay_factor": 0.99,
+    "opacity_mode": "Dynamic Opacity",
+    "fixed_opacity": 0.5,
+    "dynamic_opacity_scaling": 1.0,
+    "audio_device_index": 16,
+    "update_interval": 1
+}
